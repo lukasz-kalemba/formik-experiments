@@ -36,3 +36,28 @@
     transform: rotate(360deg);
   }
 }
+
+input {
+  display: block;
+  margin: 0 auto 2em auto;
+}
+
+select {
+  display: block;
+  margin: 0 auto 2em auto;
+}
+
+label {
+  font-size: 13px;
+  color: rgba(0, 0, 0, 0.75);
+}
+
+button {
+  padding: 0.5em 2em;
+}
+
+.error {
+  color: red;
+  font-size: 13px;
+  margin: 0;
+}
